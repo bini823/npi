@@ -14,23 +14,41 @@
 </tr>
 <tr>
 <th>h1 Headings Status</th>
+<td>It highly effects your page SEO.</td>
 <td>National Portal of India</td><br>
 </tr>
 <tr>
 <th>SEO Friendly URL Test</th>
-<td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td><br>
+<td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td>
+<td>https://india.gov.in/sites/upload/files/npi<br>https://india.gov.in//gsearchs-driving/20licence</td><br>
 </tr>
 <tr>
 <th>Image Alt Test</th>
-<td>Required 'alt' attribute.</td><br>
+<td>Required 'alt' attribute.</td>
+<td><img id="t007-10048" style="width: 100%; height: auto;" alt="logo" src="/images/logo_image-1-.png"  width ="108" height ="65" /><br>
+</tr>
+<tr>
+<th>Inline CSS Test</th>
+<td>A webpage should not use inline css</td>
+<td>Remove inline css and add it in external css file.<br></td>
 </tr>
 <tr>
 <th>Domain Authority</th>
-<td>It is good to have domain authority more than 20.</td><br>
+<td>It is good to have domain authority more than 20.</td>
+<td>Earn links from more sites.<br>
+Start marketing your content<br>
+Build a well-planned internal link structure<br>
+Social media optimization<br>
+Increase user friendliness of your site. etc<br></td>
 </tr>
 <tr>
 <th>Page Authority</th>
-<td>It is good to have domain authority more than 20.</td><br>
+<td>It is good to have domain authority more than 20.</td>
+<td>Build links to the page you're optimizing<br>
+Spread the link juice from pages with high PA to those with less<br>
+Make sure each page is packed with useful content<br>
+Build your DomainAuthority<br>
+Regularly remove harmful links to your page<br></td>
 </tr>
 <tr>
 <th>HTML Page Size Test</th>
@@ -38,7 +56,20 @@
 </tr>
 <tr>
 <th>HTML Compression Test</th>
-<td>It is recommended to use html compression e-g: gzip compression </td><br>
+<td>It is recommended to use html compression e-g: gzip compression </td>
+<td>There are different methods of setting up gzip compression depending on whether or not you've got an IIS or Apache server-<br>
+IIS provides the following compression options:<br>
+1.Static files only<br>
+2.Dynamic application responses only<br>
+3.Both static files and dynamic application responses<br>
+For Apache You will need to add the following lines to your .htaccess file:<br>
+<IfModule mod_deflate.c>
+  # Compress HTML, CSS, JavaScript, Text, XML and fonts
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+  AddOutputFilterByType DEFLATE application/x-font
+  AddOutputFilterByType DEFLATE application/x-font-opentype</IfModule><br></td>
 </tr>
 </table>
 </body>
