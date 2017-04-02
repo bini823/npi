@@ -25,7 +25,7 @@
 <tr>
 <th>Image Alt Test</th>
 <td>Required 'alt' attribute.</td>
-<td><img id="t007-10048" style="width: 100%; height: auto;" alt="logo" src="/images/logo_image-1-.png"  width ="108" height ="65" /><br></td>
+<td><img id="t007-10048" style="width: 100%; height: auto;" alt="logo" src="/images/logo_image-1-.png"  width ="108" height ="65" /></td>
 </tr>
 <tr>
 <th>Inline CSS Test</th>
