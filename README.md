@@ -35,20 +35,20 @@
 <tr>
 <th>Domain Authority</th>
 <td>It is good to have domain authority more than 20.</td>
-<td>Earn links from more sites.<br>
-Start marketing your content<br>
-Build a well-planned internal link structure<br>
-Social media optimization<br>
-Increase user friendliness of your site. etc<br></td>
+<td>1.Earn links from more sites.<br>
+2.Start marketing your content.<br>
+3.Build a well-planned internal link structure.<br>
+4.Social media optimization.<br>
+5.Increase user friendliness of your site. etc<br></td>
 </tr>
 <tr>
 <th>Page Authority</th>
 <td>It is good to have domain authority more than 20.</td>
-<td>Build links to the page you're optimizing<br>
-Spread the link juice from pages with high PA to those with less<br>
-Make sure each page is packed with useful content<br>
-Build your DomainAuthority<br>
-Regularly remove harmful links to your page<br></td>
+<td>1.Build links to the page you're optimizing.<br>
+2.Spread the link juice from pages with high PA to those with less.<br>
+3.Make sure each page is packed with useful content.<br>
+4.Build your DomainAuthority.<br>
+5.Regularly remove harmful links to your page.<br></td>
 </tr>
 <tr>
 <th>HTML Page Size Test</th>
