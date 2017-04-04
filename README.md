@@ -10,7 +10,7 @@
 <tr>
 <th>Meta Description</th>
 <td>Most search engines will truncate meta descriptions to 160 characters.</td>
-<td> My India, My Pride section of the National Portal of India provides details related to India, National Flag, National Anthem, National Song, Republic Day celebrations, Independence Day celebrations, awards, etc.</td><br>
+<td> My India, My Pride section of the National Portal of India provides details related to India, National Flag, National Anthem, etc.</td><br>
 </tr>
 <tr>
 <th>h1 Headings Status</th>
