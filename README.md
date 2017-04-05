@@ -1,6 +1,6 @@
 <html>
 <body><b><i><H1>National Portal of India</H1></i></b>
-<table>
+<table bgcolor="#000fff">
 
 <tr>
 <th><b>Title</b></th>
