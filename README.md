@@ -1,11 +1,9 @@
 <html>
 <body><b><i><H1>National Portal of India</H1></i></b>
-<style></style>
 <table>
-
 <tr>
 <th><b>Title</b></th>
-<td bgcolor="#FF0000"><b>Description</b></td>
+<td><b>Description</b></td>
 <td><b>Suggestion</b></td><br>
 </tr>
 <tr>
