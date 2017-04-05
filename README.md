@@ -1,5 +1,6 @@
 <html>
 <body><b><i><H1>National Portal of India</H1></i></b>
+<style></style>
 <table>
 
 <tr>
